@@ -118,7 +118,7 @@ WHERE a.name = 'Sauti Sol';
 
 ---
 
-# 📊 ERD Diagram <a name="erd-diagram"></a>
+# 📊 ERD Diagram And Data dictionary <a name="erd-diagram"></a>
 
 <div align="center">
 
@@ -133,6 +133,8 @@ WHERE a.name = 'Sauti Sol';
 - **User_favorites table**: Tracks which songs each user likes.  
 
 *Generated using [draw.io](https://draw.io) and verified in Supabase.*
+
+**📖 Data Dictionary:** [Download here]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
