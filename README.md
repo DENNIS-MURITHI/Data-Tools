@@ -121,15 +121,18 @@ WHERE a.name = 'Sauti Sol';
 # 📊 ERD Diagram <a name="erd-diagram"></a>
 
 <div align="center">
-  <img src="docs/erd.png" alt="Entity Relationship Diagram" width="600"/>
+
+<img width="100%" height="454" alt="image" src="https://github.com/user-attachments/assets/ee605b4d-0928-4287-a5af-c7da767cfddd" alt="Entity Relationship Diagram" />
 </div>
+
+<br/> 
 
 - **Users table**: Stores user information.  
 - **Artists table**: Contains artist details.  
 - **Songs table**: Holds songs linked to artists.  
 - **User_favorites table**: Tracks which songs each user likes.  
 
-*Generated using [draw.io](https://dbdiagram.io) and verified in Supabase.*
+*Generated using [draw.io](https://draw.io) and verified in Supabase.*
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
