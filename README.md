@@ -237,7 +237,7 @@ SELECT * FROM user_favorites;
 
 👤 **Dennis Murithi**  
 - GitHub: [@dennismurithi](https://github.com/DENNIS-MURITHI)  
-- LinkedIn: [LinkedIn](https://linkedin.com/in/yourlinkedin)  
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/dennis-muthuri/)  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
