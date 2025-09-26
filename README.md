@@ -62,7 +62,7 @@
 > This project is backend-only. You can interact with it locally or via Supabase.
 
 - [Supabase Project Link](https://supabase.com/dashboard/project/octmhkzbzxsoaegmuaei/sql/3cf2fb04-a61c-4254-87aa-e725d2b6f0f9)  
-*Replace with your project link if available.*
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -236,7 +236,7 @@ SELECT * FROM user_favorites;
 # 👥 Authors <a name="authors"></a>
 
 👤 **Dennis Murithi**  
-- GitHub: [@dennismurithi](https://github.com/yourusername)  
+- GitHub: [@dennismurithi](https://github.com/DENNIS-MURITHI)  
 - LinkedIn: [LinkedIn](https://linkedin.com/in/yourlinkedin)  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -272,7 +272,7 @@ If you like this project, give it a ⭐️ on GitHub!
 # 🙏 Acknowledgements <a name="acknowledgements"></a>
 
 - Thanks to [Supabase](https://supabase.com/) for providing the PostgreSQL platform to generate and test the schema.
-- Thanks to [dbdiagram.io](https://draw.io) for ERD visualization inspiration.
+- Thanks to [draw.io](https://draw.io) for ERD visualization inspiration.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
