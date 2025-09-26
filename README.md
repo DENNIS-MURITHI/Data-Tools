@@ -134,7 +134,7 @@ WHERE a.name = 'Sauti Sol';
 
 *Generated using [draw.io](https://draw.io) and verified in Supabase.*
 
-**📖 Data Dictionary:** [Download here]()
+**📖 Data Dictionary:** [Download here](https://github.com/DENNIS-MURITHI/Data-Tools/blob/test_branch/data_dictionary.md)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
